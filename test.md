@@ -1,2 +1,0 @@
-GITHUB_TOKEN=ghp_tnekdwoosw405ysmph4rpv9k7lbt1464ion5
-ghp_tnekdwoosw405ysmph4rpv9k7lbt1464ion5
